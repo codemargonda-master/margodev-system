@@ -6,7 +6,7 @@ MargoDev+ System is a project of Code Margonda to manage the MargoDev+ Participa
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Nico Ariesto Gilani| nicogilani@gmail.com | [@nicogilani](https://github.com/farfarida)
+| Jessen Reinhart | jessenreinharts@gmail.com | [@JessenReinhart](https://github.com/JessenReinhart)
 | David Cornelius Towoliu | davidcornelius15@gmail.com  | [@davidcorneto](https://github.com/davidcorneto)
 --------------------------------------------------
 
