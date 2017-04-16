@@ -1,6 +1,6 @@
 # MargoDev+ System
 
-MargoDev+ System is project of Code Margonda to manage the Margodev+ Participants. This system is created because Code Margonda MargoDev+ yet have a system to manage the registration of participants and to create events.
+MargoDev+ System is a project of Code Margonda to manage the MargoDev+ Participants. This system is created because Code Margonda MargoDev+ is yet to have a system to manage the registration of participants and to create events.
 
 ## Team Member
 
