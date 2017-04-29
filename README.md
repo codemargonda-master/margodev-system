@@ -15,7 +15,7 @@ MargoDev+ System is a project of Code Margonda to manage the MargoDev+ Participa
 * Participant can register an event
 
 ## Non-Functional
-* For Front-End, using ReactJS with CSS Framework (Bootstrap)
+* For Front-End, using ReactJS with CSS Framework
 * For Backend, using NodeJS
 * For database,  using MySQL
 
